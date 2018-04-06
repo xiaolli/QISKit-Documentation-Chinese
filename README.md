@@ -8,7 +8,7 @@ Quantum Information Software Kit (QISKit，量子信息软件工具箱), 是方�
 
 # 目录
 
-    [安装和配置说明](.documents/install.md)
+    安装和配置说明
         安装
         安装给予Jupyter的教程
         FAQ
@@ -18,7 +18,7 @@ Quantum Information Software Kit (QISKit，量子信息软件工具箱), 是方�
     QISKit概要
         设计思想
         项目概要
-    开发指南
+    开发者文档
         编程接口
         内部模块
         日志
