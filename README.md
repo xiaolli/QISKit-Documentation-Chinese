@@ -8,11 +8,11 @@ Quantum Information Software Kit (QISKit，量子信息软件工具箱), 是方�
 
 # 目录
 
-    安装和配置说明
+    [安装和配置说明](.documents/install.md)
         安装
         安装给予Jupyter的教程
         FAQ
-    入门
+    快速入门
         量子芯片
         项目结构
     QISKit概要
